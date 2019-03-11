@@ -1,1 +1,2 @@
 The data set consists of 50 samples from each of three species of Iris (Iris setosa, Iris virginica and Iris versicolor). Four features were measured from each sample: the length and the width of the sepals and petals, in centimeters. Based on the combination of these four features, a linear discriminant model  distinguishes the species from each other.
+The algorithm also compares accuracy of predictions between logistic regression,k-nearest classifier and SVM.
